@@ -10,9 +10,9 @@ My work combines in-situ sensor networks, satellite and LiDAR observations, clim
 - **Programming:** Python · SQL · R  
 - **Machine learning:** XGBoost · Random Forest · scikit-learn · statistical modelling
 - **Geospatial:** QGIS · Google Earth Engine · Rasterio · GDAL  
-- **Climate & remote sensing:** Reanalysis · CMIP6 · Landsat · Sentinel · LiDAR · In-situ observations 
+- **Climate & remote sensing:** Reanalysis · CMIP6 · Satellite · LiDAR · In-situ observations 
 - **Computing:** Git · GitHub · SLURM · HPC 
-- **Urban climate:** SOLWEIG, UTCI, urban heat islands
+- **Urban climate:** Urban heat islands, SOLWEIG, UTCI
 
 ## Featured projects
 
