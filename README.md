@@ -3,7 +3,7 @@
 **Climate & Environmental Data Scientist | Machine Learning | Geospatial Analysis**
 
 Postdoctoral researcher at UNC-Chapel Hill developing machine-learning and geospatial approaches for understanding urban climate and heat exposure.
-My work combines environmental sensor networks, satellite and LiDAR observations, climate/reanalysis data, machine learning, microclimate modelling and high-performance computing.
+My work combines sensor networks, satellite and LiDAR observations, climate/reanalysis data, machine learning, microclimate modelling and high-performance computing.
 
 ### Technical expertise
 
