@@ -16,7 +16,7 @@ My work combines environmental sensor networks, satellite and LiDAR observations
 
 ## Featured projects
 
-### [UrbanSENSE — High-resolution urban heat modelling](https://github.com/SarahBerk-github/UrbanSENSE_ML)
+### [UrbanSENSE: High-resolution urban heat modelling](https://github.com/SarahBerk-github/UrbanSENSE_ML)
 Machine-learning framework for predicting hourly air temperature and relative
 humidity at 10 m resolution using observations from a stratified urban sensor
 network, satellite data and ERA5-Land.
