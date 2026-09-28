@@ -20,15 +20,14 @@ My work combines environmental sensor networks, satellite and LiDAR observations
 Machine-learning framework for predicting hourly air temperature and relative
 humidity at 10 m resolution using observations from a stratified urban sensor
 network, satellite data and ERA5-Land.
+[Preprint](https://doi.org/10.22541/essoar.15007011/v1)
 
 **[View interactive dashboard →](https://durham-heat-stress-explorer.streamlit.app/)**  
 [Dashboard source code](https://github.com/SarahBerk-github/durham_heat_humidity_dash)
-[Preprint](https://doi.org/10.22541/essoar.15007011/v1)
 
 ### [Urban heat under climate change](https://github.com/SarahBerk-github/SUHI_Climate_Change_Code)
 Machine-learning analysis of changes in surface urban heat islands across
 104 cities under 2 °C global warming.
-
 [Paper](https://doi.org/10.1073/pnas.2502873123)
 
 ### [Urban microclimate modelling](https://github.com/SarahBerk-github/SOLWEIG)
